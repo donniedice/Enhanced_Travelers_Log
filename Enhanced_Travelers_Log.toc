@@ -1,5 +1,5 @@
 ## Interface: 100107
-## Version: 0.0.1
+## Version: 0.0.2
 ## Title: |cff950041E|r|cffffffffnhanced |r|cff950041T|r|cffffffffraveler's |r|cff950041L|r|cffffffffog|r
 ## Notes: Adds progress bar to Trade Post Activities!  |n|r    |cff950041By DonnieDice US-BleedingHollow|r
 ## Author: DonnieDice
@@ -10,7 +10,7 @@
 ## X-Category: UI Media, Questing & Leveling, Miscellaneous
 ## X-Website: https://github.com/donniedice/Enhanced_Travelers_Log
 ## X-Curse-Project-ID: 
-## X-Wago-ID: 
-## X-WoWI-ID: 
+## X-Wago-ID: vNAekjNo
+## X-WoWI-ID: 26643
 
 Core.lua
