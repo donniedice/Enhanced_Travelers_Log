@@ -1,5 +1,5 @@
-## Interface: 100107
-## Version: 0.0.2
+## Interface: 100200
+## Version: 0.0.3
 ## Title: |cff950041E|r|cffffffffnhanced |r|cff950041T|r|cffffffffraveler's |r|cff950041L|r|cffffffffog|r
 ## Notes: Adds progress bar to Trade Post Activities!  |n|r    |cff950041By DonnieDice US-BleedingHollow|r
 ## Author: DonnieDice

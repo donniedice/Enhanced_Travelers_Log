@@ -1,3 +1,3 @@
-v0.0.2
+v0.0.3
 
-- Fixed - README
+- Updated - TOC for Guardians of the Dream (10.2) [ver.100200]

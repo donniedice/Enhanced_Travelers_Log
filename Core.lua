@@ -1,4 +1,4 @@
---v0.0.2
+--v0.0.3
 
 -- This script creates a progress bar for the Monthly Activities section of the Encounter Journal in World of Warcraft.
 -- It sets the progress bar values based on the current and total requirements for each activity.
